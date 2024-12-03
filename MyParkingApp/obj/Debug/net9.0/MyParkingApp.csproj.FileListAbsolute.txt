@@ -1,0 +1,14 @@
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\bin\Debug\net9.0\MyParkingApp.exe
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\bin\Debug\net9.0\MyParkingApp.deps.json
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\bin\Debug\net9.0\MyParkingApp.runtimeconfig.json
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\bin\Debug\net9.0\MyParkingApp.dll
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\bin\Debug\net9.0\MyParkingApp.pdb
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\MyParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\MyParkingApp.AssemblyInfoInputs.cache
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\MyParkingApp.AssemblyInfo.cs
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\MyParkingApp.csproj.CoreCompileInputs.cache
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\MyParkingApp.dll
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\refint\MyParkingApp.dll
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\MyParkingApp.pdb
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\MyParkingApp.genruntimeconfig.cache
+D:\Web\EnigmaCamp\Soal tes\NTT\MyParkingApp\obj\Debug\net9.0\ref\MyParkingApp.dll
